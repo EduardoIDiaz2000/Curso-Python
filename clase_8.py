@@ -5,6 +5,7 @@ to_do = ['Dirigirnos al hotel',
 
 print(to_do)
 
+#ahora entiendo que son los arrays - jonathan
 number = [1, 2, 3, 4, 4, 'seis']
 print(number)
 print(type(number))
